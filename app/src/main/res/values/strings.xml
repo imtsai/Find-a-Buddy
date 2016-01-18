@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">findBuddies</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--Strings from register-->
+    <string-array name="classChoices">
+        <item>CS61A</item>
+        <item>CS61B</item>
+        <item>CS61C</item>
+        <item>CS161</item>
+        <item>CS162</item>
+        <item>CS168</item>
+        <item>CS170</item>
+        <item>CS186</item>
+        <item>CS188</item>
+        <item>CS189</item>
+    </string-array>
+    <string-array name="locChoices">
+        <item>Bechtel</item>
+        <item>Main Stacks</item>
+        <item>Soda Lounge</item>
+        <item>SLC</item>
+        <item>Student Union</item>
+    </string-array>
+</resources>
